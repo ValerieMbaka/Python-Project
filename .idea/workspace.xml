@@ -18,6 +18,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ValerieMbaka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ValerieMbaka/Python-Project.git",
+    "accountId": "ab60bb61-c83f-4aeb-a502-a42505a6fc14"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -29,31 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.fireworks2.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bmi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fireworkEffect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fireworks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fireworks1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fireworks3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gcd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileLoops.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.fireworks2.html.executor": "Run",
+    "Python.Recursion.executor": "Run",
+    "Python.bmi.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.factorial2.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.fireworkEffect.executor": "Run",
+    "Python.fireworks.executor": "Run",
+    "Python.fireworks1.executor": "Run",
+    "Python.fireworks3.executor": "Run",
+    "Python.gcd.executor": "Run",
+    "Python.whileLoops.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,6 +115,7 @@
       <workItem from="1728645312170" duration="15000" />
       <workItem from="1728649316669" duration="423000" />
       <workItem from="1729143919757" duration="294000" />
+      <workItem from="1729166624130" duration="333000" />
     </task>
     <servers />
   </component>
