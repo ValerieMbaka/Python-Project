@@ -1,4 +1,6 @@
 def calculate_sum(arr):
-    for i in array:
-        return array 
+    total = 0
+    for num in arr:
+        total += num
+    return total
    
