@@ -9,14 +9,14 @@ def gcd(a, b):
         return a
     return gcd(b, a % b)
 
-def gcdCalculation():
+def gcd_calculation():
     try:
         if num1 <= 0 or num2 <= 0:
-            print("Error: Both numbers must be positive.")
+            print("Error! Both numbers must be positive.")
         else:
             result = gcd(num1, num2)
             print(f"The greatest common divisor of {num1} and {num2} is: {result}")
     except ValueError:
-        print("Error: Please enter valid integers.")
+        print("Error! Please enter valid integers.")
 
-gcdCalculation()
+gcd_calculation()
