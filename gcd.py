@@ -5,18 +5,18 @@ num2 = int((input("Enter the second number: ")))
 
 
 def gcd(a, b):
-    if b == 0:
-        return a
-    return gcd(b, a % b)
+        if b == 0:
+                return a
+        return gcd(b, a % b)
 
 def gcd_calculation():
-    try:
-        if num1 <= 0 or num2 <= 0:
-            print("Error! Both numbers must be positive.")
-        else:
-            result = gcd(num1, num2)
-            print(f"The greatest common divisor of {num1} and {num2} is: {result}")
-    except ValueError:
-        print("Error! Please enter valid integers.")
+        try:
+                if num1 <= 0 or num2 <= 0:
+                        print("Error! Both numbers must be positive.")
+                else:
+                        result = gcd(num1, num2)
+                        print(f"The greatest common divisor of {num1} and {num2} is: {result}")
+        except ValueError:
+                print("Error! Please enter valid integers.")
 
 gcd_calculation()

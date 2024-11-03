@@ -27,34 +27,34 @@ particles_radius = 1.5
 
 # Function to draw a single particle
 def draw_particle(i, t):
-    r = 500 * math.sin(i * math.sin(t) * 2 * math.pi)
-    x = math.sin(i) * r + screen_width / 2
-    y = math.cos(i) * r + screen_height / 2
-    # HSL color
-    color = (i + 32, 100, 60)
-    pygame.draw.circle(screen, color, (int(x), int(y)), particles_radius)
+        r = 500 * math.sin(i * math.sin(t) * 2 * math.pi)
+        x = math.sin(i) * r + screen_width / 2
+        y = math.cos(i) * r + screen_height / 2
+        # HSL color
+        color = (i + 32, 100, 60)
+        pygame.draw.circle(screen, color, (int(x), int(y)), particles_radius)
 
 # Main animation loop
 while True:
-    # Handle events
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            pygame.quit()
-            sys.exit()
+        # Handle events
+        for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                        pygame.quit()
+                        sys.exit()
 
-    # Clear the screen
-    screen.fill(BLACK)
+        # Clear the screen
+        screen.fill(BLACK)
 
-    # Draw the particles
-    for i in range(num_particles):
-        draw_particle(i, t)
+        # Draw the particles
+        for i in range(num_particles):
+                draw_particle(i, t)
 
-    # Update the screen
-    pygame.display.flip()
+        # Update the screen
+        pygame.display.flip()
 
-    # Increment the animation time
-    t += 0.000010
-    t %= 2 * math.pi
+        # Increment the animation time
+        t += 0.000010
+        t %= 2 * math.pi
 
-    # Cap the frame rate
-    pygame.time.Clock().tick(60)
+        # Cap the frame rate
+        pygame.time.Clock().tick(60)

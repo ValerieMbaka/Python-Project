@@ -10,13 +10,13 @@ print(f"Your BMI is: {bmi: .2f}")
 
 # Determine the BMI category
 if bmi < 18.5:
-    category = "Underweight"
+        category = "Underweight"
 elif bmi < 25:
-    category = "Normal weight"
+        category = "Normal weight"
 elif bmi < 40:
-    category = "Overweight"
+        category = "Overweight"
 else:
-    category = "Obese"
+        category = "Obese"
 
 print(f"You are categorized as: {category}")
 
@@ -24,8 +24,8 @@ print(f"You are categorized as: {category}")
 # A simple program to calculate BMI using a function
 # Define the function
 def calculate_bmi (user_height,user_weight):
-    user_bmi = user_weight / (user_height ** 2)
-    return user_bmi
+        user_bmi = user_weight / (user_height ** 2)
+        return user_bmi
 
 # Get user input for weight and height
 user_weight = float(input("Enter your weight in kilograms: "))
@@ -37,13 +37,13 @@ print(f"Your BMI is: {user_bmi: .2f}")
 
 # Determine the BMI category
 if user_bmi < 18.5:
-    category = "Underweight"
+        category = "Underweight"
 elif user_bmi < 25:
-    category = "Normal weight"
+        category = "Normal weight"
 elif user_bmi < 40:
-    category = "Overweight"
+        category = "Overweight"
 else:
-    category = "Obese"
+        category = "Obese"
 
 print(f"You are categorized as: {category}")
 

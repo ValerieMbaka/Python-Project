@@ -15,29 +15,29 @@ firework.hideturtle()
 
 # Write a function to generate a firework
 def generate_firework(x, y, color):
-    firework.penup()
-    firework.goto(x, y)
-    firework.pendown()
-    firework.color(color)
+        firework.penup()
+        firework.goto(x, y)
+        firework.pendown()
+        firework.color(color)
 
-    # Draw the firework explosion
-    for _ in range(100):
-        firework.forward(50)
-        firework.backward(50)
-        firework.right(50)
+        # Draw the firework explosion
+        for _ in range(100):
+                firework.forward(50)
+                firework.backward(50)
+                firework.right(50)
 
-    # Add some randomness to the explosion
-    for _ in range(1000):
-        firework.forward(random.randint(60, 80))
-        firework.backward(random.randint(50, 90))
-        firework.right(random.randint(40, 80))
+        # Add some randomness to the explosion
+        for _ in range(1000):
+                firework.forward(random.randint(60, 80))
+                firework.backward(random.randint(50, 90))
+                firework.right(random.randint(40, 80))
 
 # Generate multiple fireworks
 for _ in range(100):
-    x = random.randint(-360, 180)
-    y = random.randint(0, 180)
-    color = random.choice(['red', 'green', 'blue', 'yellow', 'purple', 'orange'])
-    generate_firework(x, y, color)
+        x = random.randint(-360, 180)
+        y = random.randint(0, 180)
+        color = random.choice(['red', 'green', 'blue', 'yellow', 'purple', 'orange'])
+        generate_firework(x, y, color)
 
 # Keep the window open
 win.mainloop()
