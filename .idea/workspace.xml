@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77138d43-7146-41f9-8767-480e1e3d88df" name="Changes" comment="bigO">
-      <change afterPath="$PROJECT_DIR$/array_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bmi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fireworkEffect.py" beforeDir="false" afterPath="$PROJECT_DIR$/fireworkEffect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fireworks.py" beforeDir="false" afterPath="$PROJECT_DIR$/fireworks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fireworks1.py" beforeDir="false" afterPath="$PROJECT_DIR$/fireworks1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fireworks3.py" beforeDir="false" afterPath="$PROJECT_DIR$/fireworks3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/gcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/numberConversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/power.py" beforeDir="false" afterPath="$PROJECT_DIR$/power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/sum_digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/towerOfHanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/towerOfHanoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whileLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/whileLoops.py" afterDir="false" />
-    </list>
+    <list default="true" id="77138d43-7146-41f9-8767-480e1e3d88df" name="Changes" comment="added array operations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,37 +44,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.fireworks2.html.executor": "Run",
-    "Python.Recursion.executor": "Run",
-    "Python.array_operations.executor": "Run",
-    "Python.bigO.executor": "Run",
-    "Python.bmi.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.factorial2.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.fireworkEffect.executor": "Run",
-    "Python.fireworks.executor": "Run",
-    "Python.fireworks1.executor": "Run",
-    "Python.fireworks3.executor": "Run",
-    "Python.gcd.executor": "Run",
-    "Python.lists.executor": "Run",
-    "Python.sum_digits.executor": "Run",
-    "Python.whileLoops.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/pythonProject/.venv",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.fireworks2.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bigO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bmi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fireworkEffect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fireworks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fireworks1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fireworks3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileLoops.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/pythonProject/.venv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="pythonProject" is-module-sdk="true">
@@ -170,6 +147,7 @@
       <workItem from="1730452403999" duration="2233000" />
       <workItem from="1730454958586" duration="1062000" />
       <workItem from="1730456109896" duration="2763000" />
+      <workItem from="1730639845542" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="added recursive function sum of digits">
       <option name="closed" value="true" />
@@ -187,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730374671877</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added array operations">
+      <option name="closed" value="true" />
+      <created>1730639923846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730639923846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added recursive function sum of digits" />
     <MESSAGE value="bigO" />
-    <option name="LAST_COMMIT_MESSAGE" value="bigO" />
+    <MESSAGE value="added array operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="added array operations" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$fireworks.coverage" NAME="fireworks Coverage Results" MODIFIED="1729710247537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
