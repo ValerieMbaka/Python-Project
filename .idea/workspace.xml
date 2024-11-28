@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77138d43-7146-41f9-8767-480e1e3d88df" name="Changes" comment="list operations">
-      <change afterPath="$PROJECT_DIR$/dictionaries/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples/tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="77138d43-7146-41f9-8767-480e1e3d88df" name="Changes" comment="list operations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +160,7 @@
       <workItem from="1730456109896" duration="2763000" />
       <workItem from="1730639845542" duration="99000" />
       <workItem from="1732780330135" duration="8739000" />
-      <workItem from="1732791606058" duration="1234000" />
+      <workItem from="1732791606058" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="added recursive function sum of digits">
       <option name="closed" value="true" />
@@ -215,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732792060427</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="list operations">
+      <option name="closed" value="true" />
+      <created>1732793536430</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732793536430</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
