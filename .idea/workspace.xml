@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77138d43-7146-41f9-8767-480e1e3d88df" name="Changes" comment="linked list operations">
+      <change afterPath="$PROJECT_DIR$/stack/stack_linked_list_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/stack_list_operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_lists/linked_list_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked_lists/linked_list_operations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.linked_lists.executor": "Run",
     "Python.list_operations.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.stack_list_operations.executor": "Run",
     "Python.sum_digits.executor": "Run",
     "Python.whileLoops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -167,7 +169,7 @@
       <workItem from="1732780330135" duration="8739000" />
       <workItem from="1732791606058" duration="3381000" />
       <workItem from="1733396898619" duration="377000" />
-      <workItem from="1733397322707" duration="10118000" />
+      <workItem from="1733397322707" duration="14924000" />
     </task>
     <task id="LOCAL-00001" summary="added recursive function sum of digits">
       <option name="closed" value="true" />
@@ -241,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733400257167</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="linked list operations">
+      <option name="closed" value="true" />
+      <created>1733421964334</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733421964334</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +279,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$bmi.coverage" NAME="bmi Coverage Results" MODIFIED="1727172057550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$factorial2.coverage" NAME="factorial2 Coverage Results" MODIFIED="1726747196648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$linked_lists.coverage" NAME="linked_lists Coverage Results" MODIFIED="1733398360608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_lists" />
+    <SUITE FILE_PATH="coverage/pythonProject$stack_list_operations.coverage" NAME="stack_list_operations Coverage Results" MODIFIED="1733431258453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/pythonProject$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1726736676037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$whileLoops.coverage" NAME="whileLoops Coverage Results" MODIFIED="1726737208501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$linked_list_operations.coverage" NAME="linked_list_operations Coverage Results" MODIFIED="1733421574146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_lists" />
